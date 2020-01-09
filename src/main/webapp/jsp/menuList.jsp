@@ -94,6 +94,7 @@
 								<%--</span>--%>
 							<%--</form>--%>
 								<form class="form-search" action = "/showMenus" method = "post">
+									<b>Delicate</b>
 									<b>查询：</b>
 									<select name="cid" class="tree-folder-name">
 										<option value="all"
